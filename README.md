@@ -35,7 +35,7 @@ datavalidering-pandas-pandera/
 │   └── rapport.md
 ├── presentation/
 │   ├── manus.md
-│   └── Manus till Python uppgift 2.pdf
+│   pdf
 ├── .gitignore
 ├── main.py
 ├── requirements.txt
